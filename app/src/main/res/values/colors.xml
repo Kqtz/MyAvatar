@@ -1,0 +1,7 @@
+<resources>
+    <color name="primary">#6A3333</color>
+    <color name="primary_variant">#3700B3</color>
+    <color name="secondary">#03DAC5</color>
+    <color name="background">#c3c3c3</color>
+    <color name="text">#000000</color>
+</resources>
